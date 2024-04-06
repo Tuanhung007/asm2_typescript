@@ -1,6 +1,14 @@
 {
   "products": [
     {
+      "title": "Odddđ",
+      "description": "OPPO F19 is officially anndddddddddddđ",
+      "brand": "OPPO",
+      "price": "-5",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "id": "2"
+    },
+    {
       "id": "1",
       "title": "Samsung Universe 9",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
@@ -9,21 +17,48 @@
       "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
     },
     {
-      "id": "2",
       "title": "OPPOF19",
       "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
       "brand": "OPPO",
+      "price": "280",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "id": "2"
+    },
+    {
+      "title": "testuh",
+      "description": "hjfjahfjasdjjjjjwwwwwwwwwwwwwwww",
+      "brand": "u",
+      "price": "8",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "id": "-F6st1w"
+    },
+    {
+      "id": "1",
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "brand": "Samsung",
       "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
     },
     {
-      "id": "3",
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "brand": "Huawei",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "brand": "OPPO",
+      "price": "0",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "id": "weMGZ4r"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$/QFwFnQPIokBPZ28Q5DRS.kqRaoBuAVtrErxMyBSJ48rkSsK11Da.",
+      "id": 1
+    },
+    {
+      "email": "s2@gmail.com",
+      "password": "$2a$10$qauUwLhppdgcW8J9JOva7eeW27JLe7i7RmCMmeXIoldC3t/hnGu0O",
+      "id": 2
+    }
+  ]
 }
